@@ -554,7 +554,9 @@
   width: 240px;
 }
 
-/*.social__logo {
+
+/* What does it do??? nothing.
+.social__logo {
   color: #fff;
   justify-self: flex-start;
   margin-left: 20px;
@@ -564,7 +566,8 @@
   font-size: 2rem;
   display: flex;
   align-items: center;
-}*/
+}
+*/
 
 .website__rights {
   color: #fff;
