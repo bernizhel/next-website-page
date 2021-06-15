@@ -1,0 +1,3 @@
+# NEXT-website
+Practice with HTML, CSS and a little bit of JS. Simple NEXT website with two pages. Only Frontend, absolutely no Backend.
+One of many other NEXT websites...
